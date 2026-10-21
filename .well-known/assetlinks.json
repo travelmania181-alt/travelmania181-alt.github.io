@@ -1,14 +1,8 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.travelmania181_alt.twa",
-      "sha256_cert_fingerprints": [
-        "0E:4D:7C:2B:8F:A0:44:72:AD:67:4F:1F:49:3A:D9:A7:76:A8:75:A3:F3:C1:5C:76:55:31:7D:7D:E3:CC:95:9A"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.travelmania181_alt.twa",
+        "sha256_cert_fingerprints": ["0E:4D:7C:2B:8F:A0:44:72:AD:67:4F:1F:49:3A:D9:A7:76:A8:75:A3:F3:C1:5C:76:55:31:7D:7D:E3:CC:95:9A"]
+      }
+    }]
